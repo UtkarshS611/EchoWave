@@ -49,7 +49,7 @@ export default function Features() {
             Personalized Learning Paths
           </p>
           <p className="text-sm text-neutral-400">
-            TailoredTales uses advanced AI to understand your interests and
+            EchoWave uses advanced AI to understand your interests and
             curate podcast episodes that align with your curiosity and learning
             goals, creating a personalized learning journey.
           </p>

@@ -24,7 +24,7 @@ export default function Header() {
             className="w-16 h-16"
           />
           <h1 className="sm:text-2xl text-xl font-bold tracking-tight">
-            TailoredTales
+            EchoWave
           </h1>
         </Link>
 

@@ -16,7 +16,7 @@ export default function Footer() {
                                 className="w-16 h-16"
                             />
                             <h1 className="sm:text-2xl text-xl font-bold ml-2 tracking-tight text-white">
-                                TailoredTales
+                                EchoWave
                             </h1>
                         </div>
                         <p className="font-inter mt-4 max-w-[350px] text-base text-left font-light text-zinc-200">

@@ -9,7 +9,7 @@ export default function Hero() {
         Where Every Podcast Is a Personal Journey
       </div>
       <div className="font-light text-base md:text-xl text-neutral-200 py-4 max-w-prose my-4">
-        TailoredTales - Dive into a universe of learning tailored just for you.
+        EchoWave - Dive into a universe of learning tailored just for you.
         Discover, grow, and satisfy your curiosity with podcasts crafted on your
         interests
       </div>
