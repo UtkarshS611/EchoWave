@@ -1,4 +1,4 @@
-# TailoredTales
+# EchoWave
 Dive into a universe of learning tailored just for you. Discover, grow, and satisfy your curiosity with podcasts crafted to suit your interests. This project uses AI to create podcasts based on the topics you choose. This allows for the curation of highly specific, tailored podcasts specifically for you. 
 
 ## Tech Stack
@@ -16,8 +16,8 @@ Dive into a universe of learning tailored just for you. Discover, grow, and sati
 - OpenAI TTS models for converting the generated script into speech
 
 ## How to run
-- `git clone https://github.com/varun-balani/tailoredtales`
-- `cd tailoredtales`
+- `git clone https://github.com/varun-balani/EchoWave`
+- `cd EchoWave`
 - `npm i`
 - Configure necessary env variables
 - `npm run dev`
