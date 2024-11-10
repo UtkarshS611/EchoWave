@@ -16,7 +16,7 @@ Dive into a universe of learning tailored just for you. Discover, grow, and sati
 - OpenAI TTS models for converting the generated script into speech
 
 ## How to run
-- `git clone https://github.com/varun-balani/EchoWave`
+- `git clone https://github.com/UtkarshS611/EchoWave`
 - `cd EchoWave`
 - `npm i`
 - Configure necessary env variables
